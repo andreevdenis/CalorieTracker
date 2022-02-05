@@ -1,10 +1,10 @@
 package com.plcoding.core.domain
 
 import android.content.SharedPreferences
-import com.plcoding.core.model.ActivityLevel
-import com.plcoding.core.model.Gender
-import com.plcoding.core.model.GoalType
-import com.plcoding.core.model.UserInfo
+import com.plcoding.core.domain.model.ActivityLevel
+import com.plcoding.core.domain.model.Gender
+import com.plcoding.core.domain.model.GoalType
+import com.plcoding.core.domain.model.UserInfo
 import com.plcoding.core.domain.preferences.Preferences
 
 class DefaultPreferences(
